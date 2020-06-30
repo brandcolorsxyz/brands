@@ -1,0 +1,8 @@
+{
+    "brand": "Example",
+    "url": {
+        "website": "https://example.com/",
+        "guidelines": "https://example.com/link/to/branding/guidelines"
+    },
+    "colors": "000000, ffffff"
+}
