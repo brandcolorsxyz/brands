@@ -1,1 +1,5 @@
-{"brand":"Dailymotion","url":{"website":"https://dailymotion.com/"},"colors":"00aaff, 00d2f3"}
+{
+  "brand": "Dailymotion",
+  "url": { "website": "https://dailymotion.com/" },
+  "colors": "00aaff, 00d2f3"
+}

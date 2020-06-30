@@ -1,1 +1,8 @@
-{"brand":"Craft CMS","url":{"website":"https://craftcms.com/","guidelines":"https://craftcms.com/brand-resources"},"colors":"E5422B, FFFFFF, F1F5FD, 4A7CF6"}
+{
+  "brand": "Craft CMS",
+  "url": {
+    "website": "https://craftcms.com/",
+    "guidelines": "https://craftcms.com/brand-resources"
+  },
+  "colors": "E5422B, FFFFFF, F1F5FD, 4A7CF6"
+}

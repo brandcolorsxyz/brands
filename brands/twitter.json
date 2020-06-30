@@ -1,1 +1,8 @@
-{"brand":"Twitter","url":{"website":"http://twitter.com/","guidelines":"https://about.twitter.com/en_us/company/brand-resources.html"},"colors":"1da1f2, 14171a, 657786, aab8c2, e1e8ed, f5f8fa"}
+{
+  "brand": "Twitter",
+  "url": {
+    "website": "http://twitter.com/",
+    "guidelines": "https://about.twitter.com/en_us/company/brand-resources.html"
+  },
+  "colors": "1da1f2, 14171a, 657786, aab8c2, e1e8ed, f5f8fa"
+}

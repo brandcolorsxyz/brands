@@ -1,1 +1,5 @@
-{"brand":"iDeal","url":{"website":"https://www.ideal.nl/"},"colors":"cc0066, 79afc1, 000000"}
+{
+  "brand": "iDeal",
+  "url": { "website": "https://www.ideal.nl/" },
+  "colors": "cc0066, 79afc1, 000000"
+}

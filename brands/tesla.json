@@ -1,1 +1,5 @@
-{"brand":"Tesla","url":{"website":"https://tesla.com/"},"colors":"cc0000"}
+{
+  "brand": "Tesla",
+  "url": { "website": "https://tesla.com/" },
+  "colors": "cc0000"
+}

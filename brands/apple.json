@@ -1,1 +1,5 @@
-{"brand":"Apple","url":{"website":"https://apple.com/"},"colors":"000000, ffffff, afb8be"}
+{
+  "brand": "Apple",
+  "url": { "website": "https://apple.com/" },
+  "colors": "000000, ffffff, afb8be"
+}

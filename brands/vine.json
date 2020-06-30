@@ -1,1 +1,8 @@
-{"brand":"Vine","url":{"website":"https://vine.co/","guidelines":"https://vine.co/logo"},"colors":"00b488"}
+{
+  "brand": "Vine",
+  "url": {
+    "website": "https://vine.co/",
+    "guidelines": "https://vine.co/logo"
+  },
+  "colors": "00b488"
+}

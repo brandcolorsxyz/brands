@@ -1,1 +1,5 @@
-{"brand":"Tumblr","url":{"website":"http://tumblr.com/"},"colors":"35465c"}
+{
+  "brand": "Tumblr",
+  "url": { "website": "http://tumblr.com/" },
+  "colors": "35465c"
+}

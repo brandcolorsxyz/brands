@@ -1,1 +1,8 @@
-{"brand":"Hacker News","url":{"website":"https://news.ycombinator.com/","guidelines":"https://www.ycombinator.com/press"},"colors":"ff4000"}
+{
+  "brand": "Hacker News",
+  "url": {
+    "website": "https://news.ycombinator.com/",
+    "guidelines": "https://www.ycombinator.com/press"
+  },
+  "colors": "ff4000"
+}

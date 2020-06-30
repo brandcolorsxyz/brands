@@ -1,1 +1,5 @@
-{"brand":"Mailchimp","url":{"website":"https://mailchimp.com/"},"colors":"ffe01b, 241c15"}
+{
+  "brand": "Mailchimp",
+  "url": { "website": "https://mailchimp.com/" },
+  "colors": "ffe01b, 241c15"
+}

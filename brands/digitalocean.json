@@ -1,1 +1,5 @@
-{"brand":"Digital Ocean","url":{"website":"https://digitalocean.com/"},"colors":"008bcf"}
+{
+  "brand": "Digital Ocean",
+  "url": { "website": "https://digitalocean.com/" },
+  "colors": "008bcf"
+}

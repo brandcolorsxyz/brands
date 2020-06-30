@@ -1,1 +1,5 @@
-{"brand":"Microsoft Azure","url":{"website":"http://www.azure.com/"},"colors":"008AD7"}
+{
+  "brand": "Microsoft Azure",
+  "url": { "website": "http://www.azure.com/" },
+  "colors": "008AD7"
+}

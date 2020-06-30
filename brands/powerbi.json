@@ -1,1 +1,6 @@
-{"brand":"Power BI","url":{"website":"https://powerbi.microsoft.com"},"colors":"f2c811","image":{"extension":"gif"}}
+{
+  "brand": "Power BI",
+  "url": { "website": "https://powerbi.microsoft.com" },
+  "colors": "f2c811",
+  "image": { "extension": "gif" }
+}

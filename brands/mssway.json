@@ -1,1 +1,5 @@
-{"brand":"Microsoft Office Sway","url":{"website":"https://sway.office.com/"},"colors":"008272"}
+{
+  "brand": "Microsoft Office Sway",
+  "url": { "website": "https://sway.office.com/" },
+  "colors": "008272"
+}

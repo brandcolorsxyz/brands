@@ -1,1 +1,5 @@
-{"brand":"American Express","url":{"website":"https://americanexpress.com/"},"colors":"002663, 4d4f53"}
+{
+  "brand": "American Express",
+  "url": { "website": "https://americanexpress.com/" },
+  "colors": "002663, 4d4f53"
+}

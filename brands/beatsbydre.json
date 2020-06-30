@@ -1,1 +1,5 @@
-{"brand":"Beats by Dre","url":{"website":"https://www.beatsbydre.com"},"colors":"e01f3d"}
+{
+  "brand": "Beats by Dre",
+  "url": { "website": "https://www.beatsbydre.com" },
+  "colors": "e01f3d"
+}

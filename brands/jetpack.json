@@ -1,1 +1,5 @@
-{"brand":"JetPack","url":{"website":"https://jetpack.com/"},"colors":"669c34, 72af3a"}
+{
+  "brand": "JetPack",
+  "url": { "website": "https://jetpack.com/" },
+  "colors": "669c34, 72af3a"
+}

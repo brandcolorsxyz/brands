@@ -1,1 +1,5 @@
-{"brand":"Hewlett-Packard (HP)","url":{"website":"https://hp.com/"},"colors":"0096d6, d7410b"}
+{
+  "brand": "Hewlett-Packard (HP)",
+  "url": { "website": "https://hp.com/" },
+  "colors": "0096d6, d7410b"
+}

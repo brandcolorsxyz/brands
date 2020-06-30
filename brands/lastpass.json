@@ -1,1 +1,8 @@
-{"brand":"Lastpass","url":{"website":"https://lastpass.com/","guidelines":"https://lastpass.com/press-room/"},"colors":"d32d27, af0809, 000000, 0c2340, 00a3e0, ede04b, 333f48, d9e1e2"}
+{
+  "brand": "Lastpass",
+  "url": {
+    "website": "https://lastpass.com/",
+    "guidelines": "https://lastpass.com/press-room/"
+  },
+  "colors": "d32d27, af0809, 000000, 0c2340, 00a3e0, ede04b, 333f48, d9e1e2"
+}

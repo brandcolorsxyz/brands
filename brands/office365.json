@@ -1,1 +1,5 @@
-{"brand":"Microsoft Office 365","url":{"website":"https://office.com/"},"colors":"ea3e23"}
+{
+  "brand": "Microsoft Office 365",
+  "url": { "website": "https://office.com/" },
+  "colors": "ea3e23"
+}

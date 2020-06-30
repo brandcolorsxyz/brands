@@ -1,1 +1,5 @@
-{"brand":"GoDaddy","url":{"website":"https://godaddy.com/"},"colors":"7db701, ff8a00"}
+{
+  "brand": "GoDaddy",
+  "url": { "website": "https://godaddy.com/" },
+  "colors": "7db701, ff8a00"
+}

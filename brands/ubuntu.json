@@ -1,1 +1,8 @@
-{"brand":"Ubuntu","url":{"website":"https://ubuntu.com/","guidelines":"https://design.ubuntu.com/"},"colors":"E95420, ffffff, 000000"}
+{
+  "brand": "Ubuntu",
+  "url": {
+    "website": "https://ubuntu.com/",
+    "guidelines": "https://design.ubuntu.com/"
+  },
+  "colors": "E95420, ffffff, 000000"
+}

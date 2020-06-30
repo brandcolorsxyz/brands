@@ -1,1 +1,5 @@
-{"brand":"Heroku","url":{"website":"https://heroku.com"},"colors":"c9c3e6, 6762a6"}
+{
+  "brand": "Heroku",
+  "url": { "website": "https://heroku.com" },
+  "colors": "c9c3e6, 6762a6"
+}

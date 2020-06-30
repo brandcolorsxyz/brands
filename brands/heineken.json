@@ -1,1 +1,5 @@
-{"brand":"Heineken","url":{"website":"https://www.heineken.com/"},"colors":"008200, 205527, ff2b00, c3c3c3"}
+{
+  "brand": "Heineken",
+  "url": { "website": "https://www.heineken.com/" },
+  "colors": "008200, 205527, ff2b00, c3c3c3"
+}

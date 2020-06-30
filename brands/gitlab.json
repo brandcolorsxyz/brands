@@ -1,1 +1,8 @@
-{"brand":"GitLab","url":{"website":"https://gitlab.com/","guidelines":"https://gitlab.com/gitlab-com/gitlab-artwork/blob/master/colors"},"colors":"FCA326, FC6D26, E24329"}
+{
+  "brand": "GitLab",
+  "url": {
+    "website": "https://gitlab.com/",
+    "guidelines": "https://gitlab.com/gitlab-com/gitlab-artwork/blob/master/colors"
+  },
+  "colors": "FCA326, FC6D26, E24329"
+}

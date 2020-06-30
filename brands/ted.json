@@ -1,1 +1,8 @@
-{"brand":"TED","url":{"website":"https://ted.com/","guidelines":"https://storage.ted.com/images/TEDx_BrandingGuidelines.pdf"},"colors":"e62b1e"}
+{
+  "brand": "TED",
+  "url": {
+    "website": "https://ted.com/",
+    "guidelines": "https://storage.ted.com/images/TEDx_BrandingGuidelines.pdf"
+  },
+  "colors": "e62b1e"
+}

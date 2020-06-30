@@ -1,1 +1,9 @@
-{"brand":"YouTube","url":{"website":"https://youtube.com/","guidelines":"https://www.youtube.com/about/brand-resources/#logos-icons-colors/"},"colors":"ff0000, 282828","image":{"extension":"gif"}}
+{
+  "brand": "YouTube",
+  "url": {
+    "website": "https://youtube.com/",
+    "guidelines": "https://www.youtube.com/about/brand-resources/#logos-icons-colors/"
+  },
+  "colors": "ff0000, 282828",
+  "image": { "extension": "gif" }
+}

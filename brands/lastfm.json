@@ -1,1 +1,5 @@
-{"brand":"LastFM","url":{"website":"http://www.last.fm/"},"colors":"d51007"}
+{
+  "brand": "LastFM",
+  "url": { "website": "http://www.last.fm/" },
+  "colors": "d51007"
+}

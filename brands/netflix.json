@@ -1,1 +1,5 @@
-{"brand":"Netflix","url":{"website":"https://www.netflix.com/"},"colors":"e50914, 221f1f, f5f5f1"}
+{
+  "brand": "Netflix",
+  "url": { "website": "https://www.netflix.com/" },
+  "colors": "e50914, 221f1f, f5f5f1"
+}

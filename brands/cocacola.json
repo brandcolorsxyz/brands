@@ -1,1 +1,5 @@
-{"brand":"Coca-Cola","url":{"website":"https://cocacola.com/"},"colors":"ed1c16"}
+{
+  "brand": "Coca-Cola",
+  "url": { "website": "https://cocacola.com/" },
+  "colors": "ed1c16"
+}

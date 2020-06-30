@@ -1,1 +1,5 @@
-{"brand":"IFTTTT","url":{"website":"https://ifttt.com/"},"colors":"33ccff, ff4400, 000000"}
+{
+  "brand": "IFTTTT",
+  "url": { "website": "https://ifttt.com/" },
+  "colors": "33ccff, ff4400, 000000"
+}

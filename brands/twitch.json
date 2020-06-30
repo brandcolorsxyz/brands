@@ -1,1 +1,5 @@
-{"brand":"Twitch","url":{"website":"http://twitch.tv/"},"colors":"6441a5, b9a3e3, 262626, f1f1f1"}
+{
+  "brand": "Twitch",
+  "url": { "website": "http://twitch.tv/" },
+  "colors": "6441a5, b9a3e3, 262626, f1f1f1"
+}

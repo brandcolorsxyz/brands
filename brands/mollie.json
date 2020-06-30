@@ -1,1 +1,5 @@
-{"brand":"Mollie","url":{"website":"https://www.mollie.com/"},"colors":"c6d6df, ec4534"}
+{
+  "brand": "Mollie",
+  "url": { "website": "https://www.mollie.com/" },
+  "colors": "c6d6df, ec4534"
+}
